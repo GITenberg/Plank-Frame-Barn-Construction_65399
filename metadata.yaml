@@ -1,0 +1,26 @@
+_repo: Plank-Frame-Barn-Construction_65399
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Shawver, John L.
+    birthdate: 1859
+    deathdate: 1934
+    gutenberg_agent_id: '53317'
+    url: http://www.gutenberg.org/2009/agents/53317
+description: '"This matter was originally presented in the columns of Carpentry and
+  Building."--Preface.'
+gutenberg_issued: '2021-05-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65399'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Farm buildings -- Design and construction'
+- !lcc 'NA'
+- !lcsh 'Barns -- Design and construction'
+- GITenberg
+title: Plank Frame Barn Construction
+url: http://www.gutenberg.org/ebooks/65399
